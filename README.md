@@ -1,8 +1,5 @@
 # House of Cards 
 
-I would like to take a moment and thank people that played very important role in my learning process (SEE Teachers Section). Their informative and engaging videos, articles and classes have simplified complex topics, making them accessible and enjoyable for me to grasp. Their dedication to sharing knowledge has had a major impact on my growth, and I am truly thankful for their valuable contributions. I encourage you to subscribe and contribute to their work. Best regards to all of you. 
-## Home Lab
-
 This repository contains the configuration files and documentation for additions and changes of my home lab previously partially documented in [House Of Cards](https://github.com/arm-ser/house-of-cards)
 
 > **AI-Powered Documentation**: This homelab documentation is  maintained with assistance from [Claude Code](https://claude.com/claude-code).
@@ -208,6 +205,12 @@ The homelab utilizes **4 isolated network segments** managed by pfSense: **LAN**
 | [Lightshot](https://app.prntscr.com/en/download.html) | Convenient Screenshot taking tool     |                                                                                                                                                                                                                            |
 
 ---
+
+### Acknowledgments
+
+I would like to take a moment and thank the people that played very important roles in my learning process (see Teachers section below). Their informative and engaging videos, articles, and classes have simplified complex topics, making them accessible and enjoyable for me to grasp. Their dedication to sharing knowledge has had a major impact on my growth, and I am truly thankful for their valuable contributions. I encourage you to subscribe and contribute to their work. Best regards to all of you.
+
+### Teachers 
 
 ## Teachers 
 
