@@ -1,4 +1,6 @@
-# House of Cards 
+# House of Cards (v2)
+
+> **Latest Version**: This homelab has been consolidated into a single server. See [House of Cards v3](https://github.com/arm-ser/house-of-cards-v3) for the current infrastructure documentation.
 
 This repository contains the configuration files and documentation for additions and changes of my home lab previously partially documented in [House Of Cards](https://github.com/arm-ser/house-of-cards)
 
